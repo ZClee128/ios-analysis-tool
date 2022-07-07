@@ -1,5 +1,5 @@
 ## iosbug解析包
-
+[下载包地址](https://github.com/ZClee128/iosbug-/wiki)
 ```oc
 奔溃日志
 此处删除了部分内容
