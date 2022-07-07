@@ -1,7 +1,7 @@
 ## iosbug解析包
 [下载包地址](https://github.com/ZClee128/iosbug-/wiki)
 ```
-使用方式，直接双击main执行文件
+使用方式，解压包，直接双击main执行文件
 ```
 ```oc
 奔溃日志
