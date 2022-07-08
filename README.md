@@ -1,3 +1,6 @@
+## 更新日志
+1. 修复路径问题，解析包版本旧导致swift项目解析不了 2022.7.8
+
 ## iosbug解析包
 [下载包地址](https://github.com/ZClee128/iosbug-/wiki)
 ```
